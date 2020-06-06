@@ -1,0 +1,16 @@
+{
+  "name": "funtask-client",
+  "main": "./index.js",
+  "version": "1.0.0",
+  "description": "a funtask app",
+  "keywords": "keywords",
+  "activationCommands": {
+    "funtask-workspace": "funtask-client:toggle"
+  },
+  "repository": "",
+  "license": "MIT",
+  "engines": {
+    "funtask": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
