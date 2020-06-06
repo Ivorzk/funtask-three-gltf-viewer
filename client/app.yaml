@@ -1,3 +1,5 @@
-name:              funtask-client
+name:               glTF Viewer
 winconf:
-  autoHideMenuBar: true
+  autoHideMenuBar:  true
+  width:            1200
+  height:           680

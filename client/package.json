@@ -1,5 +1,5 @@
 {
-  "name": "funtask-client",
+  "name": "funtask-three-gltf-viewer",
   "main": "./index.js",
   "version": "1.0.0",
   "description": "a funtask app",
