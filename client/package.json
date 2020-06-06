@@ -1,9 +1,19 @@
 {
   "name": "funtask-three-gltf-viewer",
   "main": "./index.js",
-  "version": "1.0.0",
-  "description": "a funtask app",
-  "keywords": "keywords",
+  "version": "1.0.1",
+  "description": "Preview glTF models using three.js and a drag-and-drop interface.",
+  "keywords": [
+    "gltf",
+    "three.js",
+    "three",
+    "3d",
+    "model",
+    "modeling",
+    "webgl",
+    "funtask",
+    "suwis"
+  ],
   "activationCommands": {
     "funtask-workspace": "funtask-client:toggle"
   },
