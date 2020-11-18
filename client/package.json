@@ -1,7 +1,7 @@
 {
   "name": "funtask-three-gltf-viewer",
   "main": "./index.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Preview glTF models using three.js and a drag-and-drop interface.",
   "keywords": [
     "gltf",
